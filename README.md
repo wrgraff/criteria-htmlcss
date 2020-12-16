@@ -2,8 +2,12 @@
 
 ## Техзадание
 
-1. [Базовая часть ТЗ](01-specs/basic/1-specs.md)
-2. [Дополнительная часть ТЗ](01-specs/advanced/1-specs.md)
+1. [Общие требования](01-specs/basic/1-common.md)
+2. [Страница: главная](01-specs/basic/2-index.md)
+3. [Страница: каталог](01-specs/basic/3-catalog.md)
+4. [Страница: товар](01-specs/basic/3-catalog.md)
+5. [Страница: прайс](01-specs/basic/5-price.md)
+6. [Интерактивные элементы](01-specs/advanced/1-common.md)
 
 ## Код
 
