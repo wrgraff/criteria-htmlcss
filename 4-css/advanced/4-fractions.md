@@ -6,7 +6,7 @@
 
 ```css
 .block {
-	width: 2.33%;
+  width: 2.33%;
 }
 ```
 
@@ -14,6 +14,6 @@
 
 ```css
 .block
-	width: 2.33333%;
+  width: 2.33333%;
 }
 ```

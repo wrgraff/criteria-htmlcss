@@ -12,7 +12,7 @@ const modal = document.querySelectorAll('.modal');
 const modalOverlay = document.querySelectorAll('.modal__overlay');
 
 const modalInit() => {
-	//
+  //
 }
 
 /* Map */
@@ -21,7 +21,7 @@ const map = document.querySelectorAll('.map');
 const modalContent = document.querySelectorAll('.map__content');
 
 const mapInit() => {
-	//
+  //
 }
 ```
 
@@ -34,10 +34,10 @@ const map = document.querySelectorAll('.map');
 const modalContent = document.querySelectorAll('.modal__content');
 
 const mapInit() => {
-	//
+  //
 }
 
 const modalInit() => {
-	//
+  //
 }
 ```

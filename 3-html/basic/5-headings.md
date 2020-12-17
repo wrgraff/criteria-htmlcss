@@ -10,7 +10,7 @@
 <section>
   <h2>Товары</h2>
   <article>
-		<h3>Товар</h3>
+    <h3>Товар</h3>
   </article>
 </section>
 <section>
@@ -25,7 +25,7 @@
 <section>
   <h5>Товары</h5>
   <article>
-		<h1>Товар</h1>
+    <h1>Товар</h1>
   </article>
 </section>
 <section>

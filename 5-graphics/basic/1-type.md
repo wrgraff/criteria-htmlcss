@@ -20,7 +20,7 @@
 
 ```css
 .button__icon {
-	background-image: url("icon.svg");
+  background-image: url("icon.svg");
 }
 ```
 

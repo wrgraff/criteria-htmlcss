@@ -10,9 +10,9 @@
 
 ```html
 <ul>
-	<li>Первый</li>
-	<li>Второй</li>
-	<li>Третий</li>
+  <li>Первый</li>
+  <li>Второй</li>
+  <li>Третий</li>
 </ul>
 
 <img src="picture.png" alt="…">
@@ -24,9 +24,9 @@
 
 ```html
 <UL>
-	<LI>Первый
-	<LI>Второй
-	<LI>Третий
+  <LI>Первый
+  <LI>Второй
+  <LI>Третий
 </UL>
 
 <img src="picture.png" alt="…" />
@@ -48,9 +48,9 @@
 
 ```html
 <form>
-	<input type="text" required>
-	<input type="email">
-	<input type="tel" disabled>
+  <input type="text" required>
+  <input type="email">
+  <input type="tel" disabled>
 </form>
 
 <button class="button" type="button" onclick="show('menu')">
@@ -64,9 +64,9 @@
 
 ```html
 <FORM>
-	<input type="text" REQUIRED>
-	<input type = "email">
-	<input disabled="disabled" type="tel">
+  <input type="text" REQUIRED>
+  <input type = "email">
+  <input disabled="disabled" type="tel">
 </FORM>
 
 <button class=button type=button onclick='show("menu")'>
