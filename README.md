@@ -40,10 +40,11 @@
 4. [Подключение шрифтов](4-css/basic/4-fonts-add.md)
 5. [Использование шрифтов](4-css/basic/5-fonts-use.md)
 6. [Использование `!important`](4-css/basic/6-important.md)
-7. [Неиспользуемый код ⭐️](4-css/advanced/1-unused.md)
-8. [Повторяющиеся свойства ⭐️](4-css/advanced/2-repeating.md)
-9. [Формат цветов ⭐️](4-css/advanced/3-colors.md)
-10. [Дробные значения ⭐️](4-css/advanced/4-fractions.md)
+7. [Префиксы](4-css/basic/7-prefix.md)
+8. [Неиспользуемый код ⭐️](4-css/advanced/1-unused.md)
+9. [Повторяющиеся свойства ⭐️](4-css/advanced/2-repeating.md)
+10. [Формат цветов ⭐️](4-css/advanced/3-colors.md)
+11. [Дробные значения ⭐️](4-css/advanced/4-fractions.md)
 
 ## Графика
 
@@ -53,15 +54,17 @@
 
 ## Контент
 
-1. [Длина текста](6-content/basic/1-text.md)
-2. [Количество элементов](6-content/basic/2-elements.md)
-3. [Размеры элементов](6-content/basic/3-size.md)
+1. [Форматирование](6-content/basic/1-formatting.md)
+2. [Длина текста](6-content/basic/2-text.md)
+3. [Количество элементов](6-content/basic/3-elements.md)
+4. [Размеры элементов](6-content/basic/4-size.md)
 
 ## JavaScript
 
 1. [Форматирование ⭐️](7-javascript/advanced/1-formatting.md)
 2. [Неиспользуемый код ⭐️](7-javascript/advanced/2-unused.md)
 3. [Подключение скриптов ⭐️](7-javascript/advanced/3-scripts.md)
+4. [Работа без скриптов ⭐️](7-javascript/advanced/4-disabled.md)
 
 ## Доступность
 
@@ -69,4 +72,5 @@
 2. [Декоративная графика в разметке](8-a11y/basic/2-markup.md)
 3. [Доступность с клавиатуры](8-a11y/basic/3-keyboard.md)
 4. [Фокус на интерактивных элементах](8-a11y/basic/4-focus.md)
-5. [Области интерактивных элементов ⭐️](8-a11y/advanced/1-click-area.md)
+5. [Контрастный фон](8-a11y/basic/5-background.md)
+6. [Области интерактивных элементов ⭐️](8-a11y/advanced/1-click-area.md)
