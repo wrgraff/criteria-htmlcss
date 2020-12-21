@@ -14,20 +14,20 @@
 
 ```css
 .content h1 {
-	font-size: 60px;
+  font-size: 60px;
 }
 
 .content p {
-	margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 .content ul {
-	padding-left: 50px;
-	margin-left: 0;
+  padding-left: 50px;
+  margin-left: 0;
 }
 
 .content table {
-	width: 100%;
+  width: 100%;
 }
 ```
 
@@ -42,6 +42,6 @@
 ```css
 .modal-overlay {
   position: absolute;
-	background-color:rgba(0, 0, 0, 0.5);
+  background-color:rgba(0, 0, 0, 0.5);
 }
 ```

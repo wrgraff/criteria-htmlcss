@@ -7,7 +7,7 @@
 
 ```css
 .block {
-	background-color: #ff0000;
+  background-color: #ff0000;
   border-left-color: #00ff00;
   color: rgba(0, 0, 0, 0.5);
 }

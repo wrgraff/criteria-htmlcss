@@ -6,7 +6,7 @@
 
 ```html
 <label>
-	Имя
+  Имя
   <input type="text">
 </label>
 
@@ -44,7 +44,7 @@
 ```html
 <table>
   <caption>Прайс-лист</caption>
-	…
+  …
 </table>
 ```
 
@@ -52,7 +52,7 @@
 
 ```html
 <table>
-	…
+  …
 </table>
 Прайс-лист
 ```

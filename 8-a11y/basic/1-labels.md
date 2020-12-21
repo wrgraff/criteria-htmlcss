@@ -39,11 +39,11 @@
 
 ```html
 <a href="/">
-	<img src="logo.svg" width="64" height="32" alt="Барбершоп «Бородинский».">
+  <img src="logo.svg" width="64" height="32" alt="Барбершоп «Бородинский».">
 </a>
 
 <a href="https://twitter.com/yolo">
-	<span class="visually-hidden">Читайте нас в Твиттере</span>
+  <span class="visually-hidden">Читайте нас в Твиттере</span>
 </a>
 
 <button type="button" aria-label="Закрыть окно."></button>
@@ -56,7 +56,7 @@
 
 ```html
 <a href="/">
-	<img src="logo.svg" width="64" height="32" alt="">
+  <img src="logo.svg" width="64" height="32" alt="">
 </a>
 
 <a href="https://twitter.com/yolo"></a>

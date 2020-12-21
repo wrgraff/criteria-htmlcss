@@ -13,7 +13,7 @@
 }
 
 .content h2 {
-	font-family: "Futura", sans-serif;
+  font-family: "Futura", sans-serif;
   font-weight: bold;
 }
 ```
@@ -26,6 +26,6 @@
 }
 
 .content h2 {
-	 font-family: "Futura Bold";
+   font-family: "Futura Bold";
 }
 ```

@@ -11,9 +11,9 @@
 
 ```html
 <nav>
-	<a href>Главная</a>
-	<a>Каталог</a>
-	<a href>Вопросы</a>
+  <a href>Главная</a>
+  <a>Каталог</a>
+  <a href>Вопросы</a>
 </nav>
 
 <button type="button">
@@ -21,11 +21,11 @@
 </button>
 
 <a href="mailto:email@example.com">
-	email@example.com
+  email@example.com
 </a>
 
 <a href="tel:+79876543210">
-	+7 987 654-32-10
+  +7 987 654-32-10
 </a>
 ```
 
@@ -33,9 +33,9 @@
 
 ```html
 <nav>
-	<button>Главная</button>
-	<button>Каталог</button>
-	<button>Вопросы</button>
+  <button>Главная</button>
+  <button>Каталог</button>
+  <button>Вопросы</button>
 </nav>
 
 <a href="#">
@@ -43,10 +43,10 @@
 </a>
 
 <span>
-	email@example.com
+  email@example.com
 </span>
 
 <p>
-	+7 987 654-32-10
+  +7 987 654-32-10
 </p>
 ```
