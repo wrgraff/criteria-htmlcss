@@ -9,7 +9,7 @@
 /* Modal */
 
 const modal = document.querySelectorAll('.modal');
-const modalOverlay = document.querySelectorAll('.modal__overlay');
+const modalOverlay = document.querySelectorAll('.modal-overlay');
 
 const modalInit() => {
 	//
@@ -18,7 +18,7 @@ const modalInit() => {
 /* Map */
 
 const map = document.querySelectorAll('.map');
-const modalContent = document.querySelectorAll('.map__content');
+const modalContent = document.querySelectorAll('.map-content');
 
 const mapInit() => {
 	//
@@ -29,9 +29,9 @@ const mapInit() => {
 
 ```js
 const modal = document.querySelectorAll('.modal');
-const modalOverlay = document.querySelectorAll('.modal__overlay')
+const modalOverlay = document.querySelectorAll('.modal-overlay')
 const map = document.querySelectorAll('.map');
-const modalContent = document.querySelectorAll('.modal__content');
+const modalContent = document.querySelectorAll('.modal-content');
 
 const mapInit() => {
 	//

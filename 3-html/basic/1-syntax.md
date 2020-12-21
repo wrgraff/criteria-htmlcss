@@ -86,8 +86,8 @@
 
 ```html
 <form class="form" method="post">
-  <input class="form__input form__input--name" type="text">
-  <input class="form__input form__input--password" type="password">
+  <input class="form-input form-input-name" type="text">
+  <input class="form-input form-input-password" type="password">
 </form>
 ```
 

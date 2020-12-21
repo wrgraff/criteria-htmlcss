@@ -35,12 +35,12 @@
 
 ```html
 <div class="modal">
-  <div class="modal__content"></div>
+  <div class="modal-content"></div>
 </div>
 ```
 
 ```css
-.modal__overlay {
+.modal-overlay {
   position: absolute;
 	background-color:rgba(0, 0, 0, 0.5);
 }

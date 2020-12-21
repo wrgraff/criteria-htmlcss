@@ -10,14 +10,7 @@
 
 ```
 styles/
-  blocks/
-    header/
-      header.css
-    button/
-      button.css
-    field-group/
-      field-group.css
-  index.css
+  style.css
 images/
   logo-full.svg
 ```
@@ -26,14 +19,7 @@ images/
 
 ```
 styles/
-  blocks/
-    header/
-      header.css
-    button/
-      button.css
-    field_group/
-      field_group.css
-  index.css
+  style.css
 images/
   logo_full.svg
 ```
@@ -42,14 +28,7 @@ images/
 
 ```
 stili/
-  Bloki/
-    header/
-      header.css
-    btn/
-      btn.css
-    FieldGroup/
-      field_group.css
-  indeks.css
+  stili.css
 img/
   logo_FULL.svg
 ```

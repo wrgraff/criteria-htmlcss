@@ -31,7 +31,7 @@
   border: none;
 }
 
-.question__title::-webkit-details-marker {
+.question-title::-webkit-details-marker {
   display: none;
 }
 ```
@@ -60,7 +60,7 @@
 ## Правильно
 
 ```css
-.select__control {
+.select-control {
   -webkit-appearance: none;
   appearance: none;
 }
@@ -69,7 +69,7 @@
 ## Неправильно
 
 ```css
-.select__control {
+.select-control {
   appearance: none;
   -webkit-appearance: none;
 }

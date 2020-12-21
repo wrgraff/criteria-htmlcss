@@ -22,7 +22,7 @@
   height: 500px;
 }
 
-.popup__overlay {
+.popup-overlay {
   position: absolute;
   background-color: rgba(0, 0, 0, 0.5);
 }
@@ -36,7 +36,7 @@ position:FIXED;
 margin:AUTO;
 WIDHT:500px; WIDHT:500px
 }
-.POPUP__OVERLAY {
+.POPUP-OVERLAY {
 position:absolute;
 background-color:rgba(0,0,0,0.5)
 }

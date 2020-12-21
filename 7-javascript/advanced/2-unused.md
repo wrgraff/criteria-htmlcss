@@ -7,7 +7,7 @@
 ```js
 /* Modal */
 
-const modalOverlay = document.querySelectorAll('.modal__overlay');
+const modalOverlay = document.querySelectorAll('.modal-overlay');
 
 modalOverlay.addEventListener('click', event => {
   event.preventDefault();
@@ -19,8 +19,8 @@ modalOverlay.addEventListener('click', event => {
 ```js
 /* Modal */
 
-const modalOverlay = document.querySelectorAll('.modal__overlay');
-const modalContent = document.querySelectorAll('.modal__content');
+const modalOverlay = document.querySelectorAll('.modal-overlay');
+const modalContent = document.querySelectorAll('.modal-content');
 
 modalOverlay.addEventListener('click', event => {
   event.preventDefault();

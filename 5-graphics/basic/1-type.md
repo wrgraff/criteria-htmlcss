@@ -19,8 +19,8 @@
 ## Правильно
 
 ```css
-.button__icon {
-	background-image: url("icon.svg");
+.button-icon {
+  background-image: url("icon.svg");
 }
 ```
 

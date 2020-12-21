@@ -19,10 +19,10 @@
 
 ```html
 <nav class="menu">
-  <a class="menu__item menu__item--current" href>Кроет</li>
-  <a class="menu__item" href>Буря</li>
-  <a class="menu__item" href>Мглою</li>
-  <a class="menu__item" href>Небо</li>
+  <a class="menu-item menu-item-current" href>Кроет</li>
+  <a class="menu-item" href>Буря</li>
+  <a class="menu-item" href>Мглою</li>
+  <a class="menu-item" href>Небо</li>
 </nav>
 ```
 
@@ -43,10 +43,10 @@
 
 ```html
 <nav class="menu">
-  <a class="menu__item" href>Буря</li>
-  <a class="menu__item" href>Мглою</li>
-  <a class="menu__item" href>Небо</li>
-  <a class="menu__item menu__item--current" href>Кроет</li>
+  <a class="menu-item" href>Буря</li>
+  <a class="menu-item" href>Мглою</li>
+  <a class="menu-item" href>Небо</li>
+  <a class="menu-item menu-item-current" href>Кроет</li>
 </nav>
 ```
 
@@ -55,7 +55,7 @@
   display: grid;
 }
 
-.menu__item--current {
+.menu-item-current {
   order: -1;
 }
 ```
