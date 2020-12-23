@@ -5,6 +5,7 @@
 - Сторонние стили **должны** быть подключены в `<head>` отдельно.
 - Сторонние стили **должны** быть подключены до стилей проекта.
 - В разметке **не должно** быть инлайновых стилей в `style=""` или в `<style>`.
+- Стили **могут** быть записаны в атрибуте `style`, когда они генерируются на сервере или с помощью скриптов.
 
 ## Правильно
 
@@ -23,4 +24,33 @@
 <link rel="stylesheet" href="header.css">
 <link rel="stylesheet" href="main.css">
 <link rel="stylesheet" href="footer.css">
+```
+
+## Правильно
+
+```css
+.range__thumb {
+  position: absolute;
+}
+```
+
+```html
+<div class="range">
+  <div class="range__thumb" style="left: 50%"></div>
+</div>
+```
+
+## Неправильно
+
+```css
+.range__thumb {
+  position: absolute;
+  left: 50%;
+}
+```
+
+```html
+<div class="range">
+  <div class="range__thumb"></div>
+</div>
 ```
