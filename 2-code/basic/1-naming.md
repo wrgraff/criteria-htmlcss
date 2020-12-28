@@ -15,15 +15,6 @@ images/
   logo-full.svg
 ```
 
-## Правильно
-
-```
-styles/
-  style.css
-images/
-  logo_full.svg
-```
-
 ## Неправильно
 
 ```
