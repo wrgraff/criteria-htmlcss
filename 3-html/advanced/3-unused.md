@@ -7,7 +7,5 @@
 ### Правильно
 
 ```html
-<h1 class="visually-hidden">
-  Заголовок
-</h1>
+<h1 class="visually-hidden">Заголовок</h1>
 ```
