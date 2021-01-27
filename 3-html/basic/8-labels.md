@@ -26,17 +26,17 @@
 ```html
 <fieldset>
   <legend>Адрес</legend>
-  <input type="text" name="city">
-  <input type="text" name="street">
+  …
 </fieldset>
 ```
 
 ## Неправильно
 
 ```html
-Адрес
-<input type="text" name="city">
-<input type="text" name="street">
+<fieldset>
+  <p>Адрес</p>
+  …
+</fieldset>
 ```
 
 ## Правильно
