@@ -39,7 +39,7 @@
 }
 
 .content p {
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 ```
 
@@ -47,7 +47,7 @@
 
 ```css
 body {
-	font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 #header {
@@ -69,11 +69,11 @@ p {
 
 ```css
 .content ul li {
-	content: "—";
+  content: "—";
 }
 
 .content ol li {
-	content: counter;
+  content: counter;
 }
 ```
 
@@ -81,11 +81,11 @@ p {
 
 ```css
 .navigation li {
-	list-style: none;
+  list-style: none;
 }
 
 .navigation li a {
-	text-decoration: none;
+  text-decoration: none;
 }
 ```
 
