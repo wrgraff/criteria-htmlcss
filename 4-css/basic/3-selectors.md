@@ -89,6 +89,18 @@ p {
 }
 ```
 
+### Правильно
+
+```css
+.menu-link {
+  color: #ff0000;
+}
+
+.menu-item-active .menu-link {
+  color: #0000dd;
+}
+```
+
 ### Неправильно
 
 ```css
